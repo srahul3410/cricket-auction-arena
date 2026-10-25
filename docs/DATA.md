@@ -1,0 +1,2 @@
+# Player data
+data/seed_players.py holds 40 starter players with name, country, role and active/retired status only. Career statistics, source URLs, verification dates and image URLs are NOT filled in and show as "unavailable". Reaching ~300 verified players needs an import from licensed sources (official boards, ICC, Cricsheet); check each source's terms first. Base prices (₹2 cr default) are game values, not real valuations.
